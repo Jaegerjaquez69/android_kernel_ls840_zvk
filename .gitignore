@@ -1,2 +1,4 @@
 .config
 out/
+build_kernel.sh
+build_config.sh
